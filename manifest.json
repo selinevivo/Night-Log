@@ -1,0 +1,15 @@
+{
+  "name": "Night Log",
+  "short_name": "NightLog",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#d6c6f5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3094/3094379.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
